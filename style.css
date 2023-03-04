@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a {
+	display: inline-block;
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+/* ************************************************** */
+.container {
+	max-width: 1170px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+.container__fluid {
+	max-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
